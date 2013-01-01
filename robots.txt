@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dummey.github.com/dummey/sitemap.xml 
